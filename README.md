@@ -4,7 +4,7 @@
 
 A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-## Used In This Project
+## Used In This Repository
 
 - HTML5
 - CSS
