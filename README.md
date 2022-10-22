@@ -7,6 +7,7 @@ A simple calculator to do basic operators. Make it a scientific calculator for a
 ## Used In This Project
 
 - HTML5
+- CSS
 - JavaScript 1.5
 
 ## Getting Started
