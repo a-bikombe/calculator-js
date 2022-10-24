@@ -12,13 +12,7 @@ A simple calculator to do basic operators. Make it a scientific calculator for a
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
-* Deployment: [GitHub Pages](https://a-bikombe.github.io/calculator-js/)
+Deployment: [GitHub Pages](https://a-bikombe.github.io/calculator-js/)
 
 ## Version History
 
